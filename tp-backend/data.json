@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "name": "Ordinateur Portable",
+      "price": 999.99
+    },
+    {
+      "name": "Ordinateur Portable",
+      "price": 999.99
+    }
+  ],
+  "orders": [
+    {
+      "product": "Ordinateur Portable",
+      "quantity": 2
+    },
+    {
+      "product": "Ordinateur Portable",
+      "quantity": 2
+    }
+  ]
+}

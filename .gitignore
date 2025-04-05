@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 **/*.dart
 **/*.js
 **/*.json
@@ -5,3 +6,25 @@
 **/*.yml
 **/*.lock
 **/*.dart_tool
+=======
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db 
+>>>>>>> cebd1dd42bcb4373acaafed7587c73165c0ccc2b
